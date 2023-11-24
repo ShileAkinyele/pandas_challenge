@@ -27,6 +27,6 @@ school_students_passing_reading = students_passing_reading.groupby(["school_name
 
 In [173]:     math_scores_by_grade=pd.DataFrame({'9th':ninth_grade_math_score,'10th':tenth_grade_math_score,"11th":eleventh_grade_math_score,'12th':twelfth_grade_math_score}) code assisted with by TA
 
-
+Starter-codes provided with the assignment resources were equally used in generating variables in this analysis. 
 
 
